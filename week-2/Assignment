@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Test</title>
+</head>
+<body>
+    <h1> Div element</h1>
+    <div style="color:#0000FF">
+      <h2>This is</h2>
+        <p> <span style="color:cyan">Aashni Priya</span>.</p>
+    </div>
+    <ul>
+      <li><a href="https://www.google.com/">visit google</a></li>
+      <li><a href="https://www.yahoo.com/">visit yahoo</a></li>
+      <li><a href="https://www.twitter.com/">visit twitter</a></li>
+    </ul>
+</body>
+</html>
